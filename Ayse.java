@@ -5,5 +5,6 @@ public class Ayse {
         System.out.println("Deneme1");
         System.out.println("Deneme2");
         System.out.println("selim deneme");
+        System.out.println("selim deneme2");
     }
 }
