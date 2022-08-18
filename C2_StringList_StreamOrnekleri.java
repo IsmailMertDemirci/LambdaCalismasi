@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class C2_StringList_StreamOrnekleri {
+public class qC2_StringList_StreamOrnekleri {
     public static void main(String[] args) {
         List<String> list=new ArrayList<>();
 
