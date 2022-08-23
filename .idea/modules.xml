@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+
+      <module fileurl="file://$PROJECT_DIR$/LambdaCalismasi.iml" filepath="$PROJECT_DIR$/LambdaCalismasi.iml" />
+
       <module fileurl="file://$PROJECT_DIR$/mert bey proje.iml" filepath="$PROJECT_DIR$/mert bey proje.iml" />
+
     </modules>
   </component>
 </project>
